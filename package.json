@@ -8,5 +8,14 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/preset-env": "^7.10.4"
+  },
+  "scripts": {
+    "build": "babel NumberFormatter.jsx --out-file index.js"
   }
 }
