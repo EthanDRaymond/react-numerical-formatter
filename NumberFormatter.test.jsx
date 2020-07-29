@@ -20,6 +20,8 @@ describe(
 			NUMBERS.push(decimal);
 		}
 
+		NUMBERS.push(123456789);
+
 		NUMBERS.forEach(
 			(number) => test(
 				`Testing with ${number}.`,
