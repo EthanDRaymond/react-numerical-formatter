@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Rendering. Testing with 1. 1`] = `1`;
+
+exports[`Test Rendering. Testing with 1.5. 1`] = `1.5`;
+
+exports[`Test Rendering. Testing with 10. 1`] = `10`;
+
+exports[`Test Rendering. Testing with 10.5. 1`] = `10.5`;
+
+exports[`Test Rendering. Testing with 100. 1`] = `100`;
+
+exports[`Test Rendering. Testing with 100.5. 1`] = `100.5`;
+
+exports[`Test Rendering. Testing with 1000. 1`] = `1000`;
+
+exports[`Test Rendering. Testing with 1000.5. 1`] = `1000.5`;
+
+exports[`Test Rendering. Testing with 10000. 1`] = `10000`;
+
+exports[`Test Rendering. Testing with 10000.5. 1`] = `10000.5`;
+
+exports[`Test Rendering. Testing with 100000. 1`] = `100000`;
+
+exports[`Test Rendering. Testing with 100000.5. 1`] = `100000.5`;
+
+exports[`Test Rendering. Testing with 1000000. 1`] = `1000000`;
+
+exports[`Test Rendering. Testing with 1000000.5. 1`] = `1000000.5`;
+
+exports[`Test Rendering. Testing with 10000000. 1`] = `10000000`;
+
+exports[`Test Rendering. Testing with 10000000.5. 1`] = `10000000.5`;
+
+exports[`Test Rendering. Testing with 100000000. 1`] = `100000000`;
+
+exports[`Test Rendering. Testing with 100000000.5. 1`] = `100000000.5`;
+
+exports[`Test Rendering. Testing with 1000000000. 1`] = `1000000000`;
+
+exports[`Test Rendering. Testing with 1000000000.5. 1`] = `1000000000.5`;
+
+exports[`Test Rendering. Testing with 10000000000. 1`] = `10000000000`;
+
+exports[`Test Rendering. Testing with 10000000000.5. 1`] = `10000000000.5`;
+
+exports[`Test Rendering. Testing with 100000000000. 1`] = `100000000000`;
+
+exports[`Test Rendering. Testing with 100000000000.5. 1`] = `100000000000.5`;
+
+exports[`Test Rendering. Testing with 1000000000000. 1`] = `1000000000000`;
+
+exports[`Test Rendering. Testing with 1000000000000.5. 1`] = `1000000000000.5`;
