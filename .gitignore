@@ -5,7 +5,7 @@ node_modules
 .idea
 
 # Build Files
-index.js
+dist/
 
 # Test Files
 coverage

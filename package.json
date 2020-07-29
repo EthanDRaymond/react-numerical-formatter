@@ -2,12 +2,12 @@
   "name": "react-numerical-formatter",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Ethan Raymond",
   "license": "ISC",
   "dependencies": {
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1"
+    "prop-types": "^15.5.0",
+    "react": "^16.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
@@ -21,7 +21,7 @@
     "react-dom": "^16.13.1"
   },
   "scripts": {
-    "build": "babel NumberFormatter.jsx --out-file index.js",
+    "build": "babel NumberFormatter.jsx --out-file dist/index.js",
     "test": "jest"
   }
 }
